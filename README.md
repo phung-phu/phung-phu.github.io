@@ -1,29 +1,16 @@
-## Welcome to GitHub Pages
+# Welcome to Phung's Page
 
-You can use the [editor on GitHub](https://github.com/phung-phu/phung-phu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[comment]:<> (You can use the [editor on GitHub](https://github.com/phung-phu/phung-phu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[comment]:<> (Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.)
 
-### Markdown
+## Links to Projects
+- [News Page on Warming Oceans](https://github.com/phung-phu/News_Page)
+- [Midwest Demographics Visualizations](https://phung-phu.shinyapps.io/a8-midwest)
+- [Representatives api Report](https://info201b-w19.github.io/a6-phung-phu)
+- [Mass Shootings in 2018 Report](https://info201b-w19.github.io/a5-phung-phu)
+- [Final Project - Analyzing Music on Spotify](https://reneew7.shinyapps.io/musicanalysis)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
