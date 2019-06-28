@@ -1,11 +1,11 @@
-# Welcome to Phung's Page
+<!--- # Welcome to Phung's Page
 
-<!--- (You can use the [editor on GitHub](https://github.com/phung-phu/phung-phu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.)
+(You can use the [editor on GitHub](https://github.com/phung-phu/phung-phu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.)
 
 (Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.)
 -->
 
-## Links to Projects
+# Links to Projects
 - [News Page on Warming Oceans](https://github.com/phung-phu/News_Page)
 - [Midwest Demographics Visualizations](https://phung-phu.shinyapps.io/a8-midwest)
 - [Representatives api Report](https://info201b-w19.github.io/a6-phung-phu)
