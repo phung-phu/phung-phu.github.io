@@ -5,7 +5,9 @@
 (Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.)
 -->
 
-# Links to Projects
+## Links to projects I have been working on will be posted on this page
+
+### Links to Projects
 - [News Page on Warming Oceans](https://github.com/phung-phu/News-Page)
 - [Midwest Demographics Visualizations](https://phung-phu.shinyapps.io/a8-midwest)
 - [Representatives api Report](https://info201b-w19.github.io/a6-phung-phu)
