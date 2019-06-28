@@ -10,8 +10,9 @@
 ### Projects
 - [News Page on Warming Oceans](https://github.com/phung-phu/News-Page)
 - [Midwest Demographics Visualizations](https://phung-phu.shinyapps.io/a8-midwest)
-- [Representatives api Report](https://info201b-w19.github.io/a6-phung-phu)
 - [Mass Shootings in 2018 Report](https://info201b-w19.github.io/a5-phung-phu)
+- [Representatives api Report](https://info201b-w19.github.io/a6-phung-phu)
+- [Transcribing and Translating DNA in Python](https://github.com/phung-phu/DNA-Transcription-Translation)
 - [Final Project - Analyzing Music on Spotify](https://reneew7.shinyapps.io/musicanalysis)
 
 <!---
