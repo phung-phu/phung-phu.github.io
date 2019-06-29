@@ -13,6 +13,8 @@
 - [Mass Shootings in 2018 Report](https://info201b-w19.github.io/a5-phung-phu)
 - [Representatives api Report](https://info201b-w19.github.io/a6-phung-phu)
 - [Transcribing and Translating DNA in Python](https://github.com/phung-phu/DNA-Transcription-Translation)
+- [Visualizing and Analyzing Airbnb Data through Power BI](https://github.com/phung-phu/Airbnb)
+- [Visualizing and Analyzing Seattle Collisions Data through Power BI](https://github.com/phung-phu/Seattle-Collisions)
 - [Final Project - Analyzing Music on Spotify](https://reneew7.shinyapps.io/musicanalysis)
 
 <!---
