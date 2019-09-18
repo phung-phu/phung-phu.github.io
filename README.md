@@ -7,7 +7,7 @@
 
 ## Links to projects I have been working on will be posted on this page from my [GitHub](https://github.com/phung-phu) 
 
-### Projects
+### Projects:
 - [News Page on Warming Oceans](https://github.com/phung-phu/News-Page)
 - [Midwest Demographics Visualizations](https://phung-phu.shinyapps.io/a8-midwest)
 - [Mass Shootings in 2018 Report](https://info201b-w19.github.io/a5-phung-phu)
