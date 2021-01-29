@@ -11,3 +11,4 @@ Click on the following projects to read the project description and technical de
 - [Mass Shootings in 2018 Report](https://github.com/phung-phu/Mass-Shootings-2018-Report)
 - [Representatives API Report](https://github.com/phung-phu/Representatives-api-Report)
 - [Visualizing and Analyzing Seattle Collisions Data through Power BI](https://github.com/phung-phu/Seattle-Collisions)
+- [FindMyToilet Prototype](https://github.com/phung-phu/FindMyToilet)
