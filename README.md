@@ -4,7 +4,7 @@
 Click on the following projects to read the project description and technical description. The project page will also provide a link to the app. 
 
 - [Netflix Clone](https://github.com/phung-phu/netflix-clone)
-- [Airbnb Clone](https://airbnb-clone-21941.web.app/)
+- [Airbnb Clone](https://github.com/phung-phu/airbnb-clone)
 - [Messenger Clone](https://github.com/phung-phu/messenger-clone)
 - [Food Saver](https://github.com/phung-phu/Food-Saver)
 - [Final Project - Analyzing Music on Spotify](https://github.com/phung-phu/final_project)
