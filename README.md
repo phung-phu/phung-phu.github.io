@@ -1,4 +1,4 @@
-## Links to projects I have been working on will be posted on this [Github page](https://phung-phu.github.io/) from my [GitHub](https://github.com/phung-phu).
+## My GitHub Page: https://phung-phu.github.io/
 
 ### Projects:
 Click on the following projects to read the project description and technical description. The project page will also provide a link to the app. 
