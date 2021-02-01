@@ -1629,7 +1629,8 @@ input, select, textarea {
 		.image img {
 			display: block;
 			width: 100%;
-			height: 200px;
+			height: 240px;
+			border-radius: 10px;
 		}
 
 		.image.fit {
@@ -1915,7 +1916,14 @@ input, select, textarea {
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.15), 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
 		text-align: center;
 		padding: 2em;
-	}
+		transition: transform 450ms;
+		border-radius: 10px;
+		}
+
+		.box:hover{
+			transform: scale(1.04);
+		}
+	
 
 		.box.style1 {
 			padding: 3em 2em 3.5em 2em;
@@ -2117,7 +2125,7 @@ input, select, textarea {
 		}
 
 			#top .image img {
-				border-radius: 20%;
+				border-radius: 10%;
 				height: 300px;
 			}
 
@@ -2373,11 +2381,6 @@ input, select, textarea {
 					margin-right: auto !important;
 				}
 
-				.box.style2 {
-					max-width: 32em;
-					margin-left: auto !important;
-					margin-right: auto !important;
-				}
 
 		/* Wrappers */
 
