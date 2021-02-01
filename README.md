@@ -3,9 +3,9 @@
 ### Projects:
 Click on the following projects to read the project description and technical description. The project page will also provide a link to the app. 
 
-- [Netflix Clone](https://github.com/phung-phu/netflix-clone)
-- [Airbnb Clone](https://github.com/phung-phu/airbnb-clone)
-- [Messenger Clone](https://github.com/phung-phu/messenger-clone)
+- [Netflix demo](https://github.com/phung-phu/netflix-demo)
+- [Airbnb demo](https://github.com/phung-phu/airbnb-demo)
+- [Messenger demo](https://github.com/phung-phu/messenger-demo)
 - [Food Saver](https://github.com/phung-phu/Food-Saver)
 - [Final Project - Analyzing Music on Spotify](https://github.com/phung-phu/final_project)
 - [Midwest Demographics Visualizations](https://github.com/phung-phu/Midwest-Demographics-Visualizations)
